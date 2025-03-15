@@ -30,6 +30,4 @@ This **Power BI dashboard** serves as a **complementary tool** to **TradingView 
 - 🌐 **Alpha Vantage API** – Fetching live stock data  
 - 🔢 **DAX & M Query** – Data transformation and calculations  
 
-git clone https://github.com/yourusername/stock-screening-dashboard.git
-cd stock-screening-dashboard
  
